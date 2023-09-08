@@ -1,0 +1,194 @@
+header {
+  text-align: center;
+}
+
+textarea[name="user-input"] {
+  color: black;
+  font-size: 14px;
+  width: 95%;
+  height: 60px;
+  border: 3px solid #dd8bdd;
+  border-radius: 9px;
+  padding: 15px;
+  margin: 15px;
+}
+
+.uno {
+  background-color: #b39bb3;
+  color: white;
+  font-size: 18px;
+  padding: 10px;
+  margin: 10px;
+  border: 15px solid;
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+  display: inline-block;
+}
+
+#conteo1 {
+  background-color: #b14eb1;
+  color: white;
+  font-size: 15px;
+  padding: 10px;
+  margin: 10px;
+  border: 0px solid;
+  cursor: pointer;
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+.dos {
+  background-color: #b39bb3;
+  color: white;
+  font-size: 18px;
+  padding: 10px;
+  margin: 10px;
+  border: 0px solid;
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+  display: inline-block;
+}
+
+#conteo2 {
+  background-color: #b14eb1;
+  color: white;
+  font-size: 15px;
+  padding: 10px;
+  margin: 10px;
+  border: 0px solid;
+  cursor: pointer;
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+.tres {
+  background-color: #b39bb3;
+  color: white;
+  font-size: 18px;
+  padding: 10px;
+  margin: 10px;
+  border: 0px solid;
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+  display: inline-block;
+}
+
+#conteo3 {
+  background-color: #b14eb1;
+  color: white;
+  font-size: 15px;
+  padding: 10px;
+  margin: 10px;
+  border: 0px solid;
+  cursor: pointer;
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+.cuatro {
+  background-color: #b39bb3;
+  color: white;
+  font-size: 18px;
+  padding: 10px;
+  margin: 10px;
+  border: 0px solid;
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+  display: inline-block;
+}
+
+#conteo4 {
+  background-color: #b14eb1;
+  color: white;
+  font-size: 15px;
+  padding: 10px;
+  margin: 10px;
+  border: 0px solid;
+  cursor: pointer;
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+.cinco {
+  background-color: #b39bb3;
+  color: white;
+  font-size: 18px;
+  padding: 10px;
+  margin: 10px;
+  border: 0px solid;
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+  display: inline-block;
+}
+
+#conteo5 {
+  background-color: #b14eb1;
+  color: white;
+  font-size: 15px;
+  padding: 10px;
+  margin: 10px;
+  border: 0px solid;
+  cursor: pointer;
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+.seis {
+  background-color: #b39bb3;
+  color: white;
+  font-size: 18px;
+  padding: 10px;
+  margin: 10px;
+  border: 0px solid;
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+  display: inline-block;
+}
+
+#conteo6 {
+  background-color: #b14eb1;
+  color: white;
+  font-size: 15px;
+  padding: 10px;
+  margin: 10px;
+  border: 0px solid;
+  cursor: pointer;
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+#reset-button {
+  background-color: purple;
+  color: white;
+  font-size: 15px;
+  padding: 10px;
+  margin: 0 auto;
+  border: 0px solid;
+  cursor: pointer;
+  text-align: center;
+  display: flex;
+
+}
+
+footer {
+  text-align: center
+}
+
