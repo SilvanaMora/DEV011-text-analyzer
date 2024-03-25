@@ -1,4 +1,4 @@
-# Text Analizer  
+# Text Analyzer  
 
 ## Presentación 
 ¡Bienvenid@! A continuación encontrarás la descripción de esta herramienta que te ayudará a comprender y optimizar tus textos.
@@ -19,23 +19,40 @@ Esta herramienta calcula las siguientes métricas y actualiza el resultado en ti
 ### ¿Para qué puedo usar Text Analyzer? 
 Esta herramienta resulta útil para mejorar la comprensión de textos, siendo beneficiosa para estudiantes, escritores, redactores y otros profesionales que trabajen con contenido escrito. Las aplicaciones de análisis de texto proporcionan información valiosa y métricas, permitiendo a los usuarios tomar decisiones informadas y extraer conclusiones significativas. Además, estas herramientas pueden ser empleadas para diversos propósitos, como la identificación de patrones, la mejora de la calidad del contenido y el análisis de tendencias en textos.
 
-## Tecnologías utilizadas
-
-HTML, CSS y JavaScript.
-
-
 ## Modo de uso
 1. Haz clic en el cuadro de texto e introduce tu contenido.
 2. A medida que escribes, Text Analyzer te mostrará las métricas automáticamente.
 3. Haz clic en el botón "Limpiar métricas" para comenzar de nuevo.
 
+## Tecnologías y herramientas utilizadas
+
+### Tecnologías:
+
+HTML: Para la estructura y contenido de las páginas web.
+CSS: Para el diseño y estilo de las páginas web.
+JavaScript: Para la lógica y comportamiento de la aplicación.
+ES6+: Para usar características modernas de JavaScript.
+Pruebas unitarias: Para asegurar el correcto funcionamiento del código.
+Diseño web responsive: Para que la aplicación se adapte a diferentes dispositivos.
+SPA (Single Page Application): Para una experiencia de usuario fluida sin recargar la página.
+API de Web Storage: Para almacenar datos localmente en el navegador.
+Promesas y callbacks: Para manejar código asíncrono.
+Módulos de ECMAScript: Para organizar el código en módulos independientes.
+
+### Herramientas:
+
+Git y GitHub: Para control de versiones y colaboración.
+Vite: Para empaquetar módulos y arrancar el servidor de desarrollo con HMR.
+Firebase: Para autenticación de usuarios, almacenamiento de datos en Firestore y despliegue con GitHub Pages.
+Navegadores web: Para ejecutar la aplicación y realizar pruebas.
+Herramientas de desarrollo web: Para depurar y optimizar la aplicación.
 
 ### ¡Explora Text Analyzer y descubre cómo te puede ayudar!
 
-Click aquí para comenzar a utilizarlo: [Text Analyzer](https://silvanamora.github.io/DEV011-text-analyzer/)
+### Click aquí para comenzar a utilizarlo: [Text Analyzer](https://silvanamora.github.io/DEV011-text-analyzer/)
 
-¡Ayúdame a mejorar la herramienta reportando errores o sugiriendo nuevas funcionalidades!
-¡Gracias por usar Text Analyzer!
+### ¡Ayúdame a mejorar la herramienta reportando errores o sugiriendo nuevas funcionalidades!
+### ¡Gracias por usar Text Analyzer!
 
 Autora: Silvana Mora
 
