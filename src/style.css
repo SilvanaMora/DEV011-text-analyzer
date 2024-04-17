@@ -1,9 +1,7 @@
-/* Alinear el texto del encabezado al centro */
 header {
   text-align: center;
 }
 
-/* Estilos para el área de entrada de texto */
 textarea[name="user-input"] {
   color: black;
   font-size: 14px;
@@ -12,32 +10,29 @@ textarea[name="user-input"] {
   border: 3px solid #dd8bdd;
   border-radius: 9px;
   padding: 15px;
-  margin: 15px auto; /* Alinear al centro horizontalmente */
-  display: block; /* Convertirlo en un bloque para ajustar el margen correctamente */
+  margin: 15px;
 }
 
-/* Estilos para los botones */
-.button {
+.uno {
   background-color: #b39bb3;
   color: white;
-  font-size: 18px;
+  /* font-size: 18px; */
   padding: 10px;
-  margin: 10px;
-  border: 0;
+  /* margin: 10px; */
+  border: 15px solid;
   cursor: pointer;
-  width: 100px;
-  height: 30px;
+  /* width: 100px;
+  height: 30px; */
   display: inline-block;
 }
 
-/* Estilos para los contadores */
-.counter {
+#conteo1 {
   background-color: #b14eb1;
   color: white;
   font-size: 15px;
   padding: 10px;
   margin: 10px;
-  border: 0;
+  border: 0px solid;
   cursor: pointer;
   width: 15px;
   height: 15px;
@@ -45,19 +40,156 @@ textarea[name="user-input"] {
   border-radius: 50%;
 }
 
-/* Estilos para el botón de reset */
+.dos {
+  background-color: #b39bb3;
+  color: white;
+  font-size: 18px;
+  padding: 10px;
+  margin: 10px;
+  border: 0px solid;
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+  display: inline-block;
+}
+
+#conteo2 {
+  background-color: #b14eb1;
+  color: white;
+  font-size: 15px;
+  padding: 10px;
+  margin: 10px;
+  border: 0px solid;
+  cursor: pointer;
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+.tres {
+  background-color: #b39bb3;
+  color: white;
+  font-size: 18px;
+  padding: 10px;
+  margin: 10px;
+  border: 0px solid;
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+  display: inline-block;
+}
+
+#conteo3 {
+  background-color: #b14eb1;
+  color: white;
+  font-size: 15px;
+  padding: 10px;
+  margin: 10px;
+  border: 0px solid;
+  cursor: pointer;
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+.cuatro {
+  background-color: #b39bb3;
+  color: white;
+  font-size: 18px;
+  padding: 10px;
+  margin: 10px;
+  border: 0px solid;
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+  display: inline-block;
+}
+
+#conteo4 {
+  background-color: #b14eb1;
+  color: white;
+  font-size: 15px;
+  padding: 10px;
+  margin: 10px;
+  border: 0px solid;
+  cursor: pointer;
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+.cinco {
+  background-color: #b39bb3;
+  color: white;
+  font-size: 18px;
+  padding: 10px;
+  margin: 10px;
+  border: 0px solid;
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+  display: inline-block;
+}
+
+#conteo5 {
+  background-color: #b14eb1;
+  color: white;
+  font-size: 15px;
+  padding: 10px;
+  margin: 10px;
+  border: 0px solid;
+  cursor: pointer;
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+.seis {
+  background-color: #b39bb3;
+  color: white;
+  font-size: 18px;
+  padding: 10px;
+  margin: 10px;
+  border: 0px solid;
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+  display: inline-block;
+}
+
+#conteo6 {
+  background-color: #b14eb1;
+  color: white;
+  font-size: 15px;
+  padding: 10px;
+  margin: 10px;
+  border: 0px solid;
+  cursor: pointer;
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  border-radius: 50%;
+}
+
 #reset-button {
   background-color: purple;
   color: white;
   font-size: 15px;
   padding: 10px;
-  margin: 15px auto; /* Alinear al centro horizontalmente */
-  border: 0;
+  margin: 0 auto;
+  border: 0px solid;
   cursor: pointer;
-  display: block; /* Convertirlo en un bloque para ajustar el margen correctamente */
+  text-align: center;
+  display: flex;
+
 }
 
-/* Alinear el texto del pie de página al centro */
 footer {
-  text-align: center;
+  text-align: center
 }
+
+
