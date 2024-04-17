@@ -1,7 +1,9 @@
+/* Alinear el texto del encabezado al centro */
 header {
   text-align: center;
 }
 
+/* Estilos para el área de entrada de texto */
 textarea[name="user-input"] {
   color: black;
   font-size: 14px;
@@ -10,56 +12,32 @@ textarea[name="user-input"] {
   border: 3px solid #dd8bdd;
   border-radius: 9px;
   padding: 15px;
-  margin: 15px;
+  margin: 15px auto; /* Alinear al centro horizontalmente */
+  display: block; /* Convertirlo en un bloque para ajustar el margen correctamente */
 }
 
-.uno {
-  background-color: #b39bb3;
-  color: white;
-  /* font-size: 18px; */
-  padding: 10px;
-  /* margin: 10px; */
-  border: 15px solid;
-  cursor: pointer;
-  /* width: 100px;
-  height: 30px; */
-  display: inline-block;
-}
-
-#conteo1 {
-  background-color: #b14eb1;
-  color: white;
-  font-size: 15px;
-  padding: 10px;
-  margin: 10px;
-  border: 0px solid;
-  cursor: pointer;
-  width: 15px;
-  height: 15px;
-  display: inline-block;
-  border-radius: 50%;
-}
-
-.dos {
+/* Estilos para los botones */
+.button {
   background-color: #b39bb3;
   color: white;
   font-size: 18px;
   padding: 10px;
   margin: 10px;
-  border: 0px solid;
+  border: 0;
   cursor: pointer;
   width: 100px;
   height: 30px;
   display: inline-block;
 }
 
-#conteo2 {
+/* Estilos para los contadores */
+.counter {
   background-color: #b14eb1;
   color: white;
   font-size: 15px;
   padding: 10px;
   margin: 10px;
-  border: 0px solid;
+  border: 0;
   cursor: pointer;
   width: 15px;
   height: 15px;
@@ -67,128 +45,19 @@ textarea[name="user-input"] {
   border-radius: 50%;
 }
 
-.tres {
-  background-color: #b39bb3;
-  color: white;
-  font-size: 18px;
-  padding: 10px;
-  margin: 10px;
-  border: 0px solid;
-  cursor: pointer;
-  width: 100px;
-  height: 30px;
-  display: inline-block;
-}
-
-#conteo3 {
-  background-color: #b14eb1;
-  color: white;
-  font-size: 15px;
-  padding: 10px;
-  margin: 10px;
-  border: 0px solid;
-  cursor: pointer;
-  width: 15px;
-  height: 15px;
-  display: inline-block;
-  border-radius: 50%;
-}
-
-.cuatro {
-  background-color: #b39bb3;
-  color: white;
-  font-size: 18px;
-  padding: 10px;
-  margin: 10px;
-  border: 0px solid;
-  cursor: pointer;
-  width: 100px;
-  height: 30px;
-  display: inline-block;
-}
-
-#conteo4 {
-  background-color: #b14eb1;
-  color: white;
-  font-size: 15px;
-  padding: 10px;
-  margin: 10px;
-  border: 0px solid;
-  cursor: pointer;
-  width: 15px;
-  height: 15px;
-  display: inline-block;
-  border-radius: 50%;
-}
-
-.cinco {
-  background-color: #b39bb3;
-  color: white;
-  font-size: 18px;
-  padding: 10px;
-  margin: 10px;
-  border: 0px solid;
-  cursor: pointer;
-  width: 100px;
-  height: 30px;
-  display: inline-block;
-}
-
-#conteo5 {
-  background-color: #b14eb1;
-  color: white;
-  font-size: 15px;
-  padding: 10px;
-  margin: 10px;
-  border: 0px solid;
-  cursor: pointer;
-  width: 15px;
-  height: 15px;
-  display: inline-block;
-  border-radius: 50%;
-}
-
-.seis {
-  background-color: #b39bb3;
-  color: white;
-  font-size: 18px;
-  padding: 10px;
-  margin: 10px;
-  border: 0px solid;
-  cursor: pointer;
-  width: 100px;
-  height: 30px;
-  display: inline-block;
-}
-
-#conteo6 {
-  background-color: #b14eb1;
-  color: white;
-  font-size: 15px;
-  padding: 10px;
-  margin: 10px;
-  border: 0px solid;
-  cursor: pointer;
-  width: 15px;
-  height: 15px;
-  display: inline-block;
-  border-radius: 50%;
-}
-
+/* Estilos para el botón de reset */
 #reset-button {
   background-color: purple;
   color: white;
   font-size: 15px;
   padding: 10px;
-  margin: 0 auto;
-  border: 0px solid;
+  margin: 15px auto; /* Alinear al centro horizontalmente */
+  border: 0;
   cursor: pointer;
-  text-align: center;
-  display: flex;
-
+  display: block; /* Convertirlo en un bloque para ajustar el margen correctamente */
 }
 
+/* Alinear el texto del pie de página al centro */
 footer {
-  text-align: center
+  text-align: center;
 }
-
