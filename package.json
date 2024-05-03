@@ -19,7 +19,6 @@
     "start": "serve ./src",
     "deploy": "gh-pages -d src",
     "build": "npm run build"
-}
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
