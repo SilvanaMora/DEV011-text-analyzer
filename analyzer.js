@@ -5,7 +5,6 @@ const analyzer = {
     let words=1;
     console.log(frase);
     for(let i=0;i<frase.length-1;i++){
-      
       if((frase.charAt(i)===" "&&(frase.charAt(i+1)!==" "))){
         words++
       }
