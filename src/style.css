@@ -1,3 +1,8 @@
+body {
+  margin: 0 auto; 
+  text-align: center; 
+}
+
 header {
   text-align: center;
 }
@@ -5,8 +10,8 @@ header {
 textarea[name="user-input"] {
   color: black;
   font-size: 14px;
-  width: 95%;
-  height: 60px;
+  width: 85%;
+  height: 80px;
   border: 3px solid #dd8bdd;
   border-radius: 9px;
   padding: 15px;
@@ -33,11 +38,11 @@ textarea[name="user-input"] {
   background-color: #b14eb1;
   color: white;
   font-size: 15px;
-  padding: 10px;
-  margin: 10px;
+  padding: 12px;
+  margin: 12px;
   border: 0px solid;
   cursor: pointer;
-  width: 15px;
+  width: 16px;
   height: 15px;
   display: inline-block;
   border-radius: 50%;
