@@ -20,17 +20,18 @@ textarea[name="user-input"] {
 
 .uno, .dos, .tres, .cuatro, .cinco, .seis
 {
-  background-color: #b39bb3;
-  color: white;
-  font-size: 18px; 
-  padding: 20px;
-  margin: 10px; 
-  border: 0px solid;
-  cursor: pointer;
-  width: 90px;
-  height: 30px; 
-  display: inline-block;
-  vertical-align: top;
+background-color: #b39bb3;
+color: white;
+font-size: 15px;
+font-weight: bold;
+padding: 14px;
+margin: 10px; 
+border: 0px solid;
+cursor: pointer;
+width: 80px;
+height: 30px; 
+display: inline-block;
+vertical-align: top;
 }
 
 #conteo1, #conteo2, #conteo3, #conteo4, #conteo5, #conteo6
@@ -39,11 +40,11 @@ textarea[name="user-input"] {
   color: white;
   font-size: 15px;
   padding: 12px;
-  margin: 12px;
+  margin: 9px;
   border: 0px solid;
   cursor: pointer;
-  width: 16px;
-  height: 15px;
+  width: 14px;
+  height: 14px;
   display: inline-block;
   border-radius: 50%;
 }
