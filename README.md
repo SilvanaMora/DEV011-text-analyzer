@@ -49,8 +49,6 @@ Herramientas de desarrollo web: Para depurar y optimizar la aplicación.
 
 ### ¡Explora Text Analyzer y descubre cómo te puede ayudar!
 
-### Click aquí para comenzar a utilizarlo: [Text Analyzer](https://silvanamora.github.io/DEV011-text-analyzer/)
-
 ### ¡Ayúdame a mejorar la herramienta reportando errores o sugiriendo nuevas funcionalidades!
 ### ¡Gracias por usar Text Analyzer!
 
